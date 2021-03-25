@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xenophilya
 - 👀 I’m interested in Simulation Hypothesis
 - 🌱 I’m currently learning Data science
-- 💞️ I’m looking to collaborate on blockain development
+- 💞️ I’m looking to collaborate on blockchain development
 - 📫 How to reach me manuelemeka@gmail.com
 
 <!---
